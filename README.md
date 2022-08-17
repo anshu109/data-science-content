@@ -34,7 +34,7 @@
 ## Deep Learning
 
 - <a href="">tensorflow</a>
-- <a href="">pytorch</a>
+- <a href="https://github.com/Tech-i-s/techis-deep-learning/tree/main/Pytorch">pytorch</a>
 - <a href="">keras</a>
 - <a href="">Neural Network</a>
 - <a href="">Convolution Neural Network</a>
