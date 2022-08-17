@@ -14,7 +14,7 @@
 - <a href="https://github.com/Tech-i-s/techis-ds-wiki/tree/main/DS/Step%201-4%20Data%20Processing">Data Processing</a>
 - <a href="https://github.com/Tech-i-s/techis-ds-wiki/tree/main/DS/Step%201-5%20EDA%20and%20Visualisation">EDA</a>
 - <a href="">webscrapping </a>
-- <a href="">Power Bi/ Tableu</a>
+- <a href="https://github.com/Tech-i-s/techis-Data-Visualization/blob/main/Tableau.md">Tableu</a>
 
 # Machine Learning
 
