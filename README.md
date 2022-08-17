@@ -3,7 +3,7 @@
 ## Step 1 - Programming and mathematics 
 
 ### <a href="https://github.com/Tech-i-s/techis-ds-wiki/tree/main/DS/Step%201-1%20Python">Python</a>
-### <a href="">R</a>
+### <a href="https://github.com/Tech-i-s/techis-ds-R-programming">R</a>
 ### <a href="https://github.com/Tech-i-s/techis-ds-wiki/tree/main/DS/Step%201-6%20Stats">Statistics</a>
 ### <a href="https://github.com/Tech-i-s/techis-ds-wiki/tree/main/DS/Step%201-7%20Maths">Mathematics</a>
 
